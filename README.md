@@ -1,3 +1,3 @@
 # NCP
-net centric project
+Net Centric Project
 Contains files of the project
