@@ -1,3 +1,3 @@
-# NCP
-Net Centric Project
-Contains files of the project
+# Full Stack project
+
+A Leave Management website
